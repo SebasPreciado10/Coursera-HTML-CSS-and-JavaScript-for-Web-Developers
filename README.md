@@ -22,3 +22,7 @@ Este repositorio contiene todos los códigos y trabajos asignados en el curso ll
 • [Modulo3](https://sebaspreciado10.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/MODULE-3/)
 
 • [Modulo4](https://sebaspreciado10.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/MODULE-4/)
+
+• [Modulo5](https://sebaspreciado10.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/MODULE-5/)
+
+
